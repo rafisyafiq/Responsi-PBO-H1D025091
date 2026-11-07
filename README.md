@@ -40,7 +40,7 @@ Pastikan JDK terpasang (`javac -version`).
 6. **Method Overriding:** `@Override` pada `gunakanSkill()`, `tampilkanInfo()`, dan method interface.
 7. **Abstract Class:** `Karakter` abstract dengan abstract method `gunakanSkill(Karakter target)`.
 8. **Logika State Percabangan:** `gunakanSkill()` memakai if/else yang membaca dan mengubah rage (Warrior) atau mana (Mage).
-9. **Polimorfisme Interface:** `Bertarung petarung1 = new Warrior("Brutus", 2);` di `Main`.
+9. **Polimorfisme Interface:** `Bertarung petarung1 = new Warrior("Khalid", 2);` di `Main`.
 10. **Multiple Interface:** `Mage implements Bertarung, Penyembuh`.
 
 
